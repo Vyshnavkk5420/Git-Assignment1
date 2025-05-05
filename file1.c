@@ -3,7 +3,7 @@
 int main()
 {
 	printf("This is file1\n");
-	printf("Making changes for unstaging\n");
+	printf("This is new change\n");
 	return 0;
 
 }
